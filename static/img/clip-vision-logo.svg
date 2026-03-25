@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="CLIP Vision logo">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="#0f172a"/>
+  <path d="M22 64c9-16 23-24 42-24s33 8 42 24c-9 16-23 24-42 24S31 80 22 64z" fill="none" stroke="url(#g1)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="64" cy="64" r="14" fill="url(#g2)"/>
+  <circle cx="64" cy="64" r="5" fill="#0f172a"/>
+  <text x="64" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#cbd5e1">CLIP</text>
+</svg>
